@@ -25,7 +25,7 @@ This project leverages a trained neural network model (`crispr_model.h5`) to eva
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/Physicsmaniac/CRISPR-sgRNA-predictor.git](https://github.com/Physicsmaniac/CRISPR-sgRNA-predictor](https://github.com/Physicsmaniac/CRISPR-sgRNA-predictor)
+   git clone https://github.com/Physicsmaniac/CRISPR-sgRNA-predictor.git
    cd CRISPR-sgRNA-predictor
    ```
 
